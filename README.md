@@ -45,10 +45,10 @@ _THEN I am taken to the corresponding section of the README_
 
 [Github](https://github.com/PintoDrop/enigma)
 
-## Website Link
+## Link To Walk Through Video
 
-[Read Me Generator]()
+[Read Me Generator Walkthrough]()
 
 ## Screen Shots
 
-![Deployed Website]()
+![Example README]()
