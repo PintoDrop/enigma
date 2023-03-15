@@ -34,7 +34,7 @@ function generateMarkdown(data) {
 4. [contributors](#contributors)
 5. [Test](#test)
 6. [License](#license)
-7. [Git Hub] (#github)
+7. [Git-Hub] (#github)
 8. [Email] (#email)
 
 ## Description

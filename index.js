@@ -52,7 +52,7 @@ let questions = [
     message: "What is the email used for this project?",
     type: "input",
     name: "email",
-  },
+  }
 ];
 
 // TODO: Create a function to write README file
