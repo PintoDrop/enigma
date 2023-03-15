@@ -1,10 +1,10 @@
 // TODO: Include packages needed for this application
-const inquierer = require ('inquirer')
+const inquierer = require('inquirer')
 // const fs = require('fs')
 
 // TODO: Create an array of questions for user input
 
-const questions = [
+let questions = [
   {
     message: "What title would you like to use for your project?",
     type: "input",
