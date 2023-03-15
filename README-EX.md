@@ -1,4 +1,4 @@
-# test
+# Example
 
 ## Table Of Contents
 1. [Description](#description)
@@ -12,23 +12,23 @@
 
 ## Description
 
-a
+I created this project to better understand node and how it can be used to help create things that may make the developer have an easier time.
 
-##  Installation
+## Installation
 
-omg
+n/a
 
 ## Usage
 
-so cool
+This can be used to create a thorough readme that will save the developer time and be able to inform the user of their project.
 
 ## Contributors
 
-am I right?
+n/a
 
 ## Test
 
-licenselicenselicenselicenselicenselicenselicenselicenselicenselicenselicenselicenselicenselicense
+n/a
 
 ## License
 
@@ -36,11 +36,13 @@ MIT
 
 ## Github
 
-fdasf
+*My GitHub user name is*
+PintoDrop
 
 ## Email
 
-fdasf@gfadsg.com
+*Feel free to contact me via email at*
+dsadas@yahoo.com
 
 
 
