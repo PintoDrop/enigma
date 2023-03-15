@@ -1,6 +1,6 @@
 // TODO: Include packages needed for this application
-const inquierer = require('inquirer')
-// const fs = require('fs')
+const fs = require('fs')
+const inquierer = require("inquirer");
 
 // TODO: Create an array of questions for user input
 
@@ -38,7 +38,7 @@ let questions = [
   {
     message: "What license are you using for this project?",
     type: "list",
-    choices: ["MIT", "BSD", "Apache", "none"],
+    choices: ["MIT", "BSD", "Apache", "Refer to the Repo License", "none"],
     name: "license",
   },
   {
@@ -50,20 +50,24 @@ let questions = [
     message: "What is the email used for this project?",
     type: "input",
     name: "email",
-  }
+  },
 ];
 
 // TODO: Create a function to write README file
+
 function writeToFile(fileName, data) {}
 
-inquierer.prompt(questions)
-.then(response => {
-  console.log(response)
-})
-.catch(err=> console.log(err))
+inquierer
+  .prompt(questions)
+  .then((response) => {
+    console.log(response);
+  })
+  .catch((err) => console.log(err));
 
 // TODO: Create a function to initialize app
+
 function init() {}
 
 // Function call to initialize app
+
 init();
