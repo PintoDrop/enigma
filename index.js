@@ -1,6 +1,7 @@
 // TODO: Include packages needed for this application
-const fs = require('fs')
-const inquierer = require("inquirer");
+// let fs = require('fs')
+let inquierer = require("inquirer");
+let generateMarkdown = require ('./utils/generateMarkdown');
 
 // TODO: Create an array of questions for user input
 
@@ -57,16 +58,18 @@ let questions = [
 
 function writeToFile(fileName, data) {}
 
-inquierer
-  .prompt(questions)
-  .then((response) => {
-    console.log(response);
-  })
-  .catch((err) => console.log(err));
 
 // TODO: Create a function to initialize app
 
-function init() {}
+function init() {
+  inquierer
+    .prompt(questions)
+    .then((response) => {
+      console.log(response);
+    })
+    .catch((err) => console.log(err));
+
+}
 
 // Function call to initialize app
 
