@@ -1,16 +1,14 @@
 # Professional README Generator Starter Code
 
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
-
 # Read Me Generator
 
 ## Description
 
-For this assignment I was tasked with creating a README generator to make it faster for the developer to create a well thought out read me they can use on their applications.
+For this assignment I was tasked with creating a README generator to make it faster for the developer to create a well thought out read me they can use on their applications. The user will be able to input unqie information for their project and have it generated into a read me document. The user will be asked a series of questions to input for the information needed in a read me document.
 
 ## Usage
 
-The user will be able to use this application to enter in some information about their application. After they have entered this information they will be presented with a read me that they can use in their project. This will help both the developer and the user to better understand the application.
+The user will be able to use this application to enter in some information about their application. After they have entered this information they will be presented with a read me that they can use in their project. This will help both the developer and the user to better understand the application. This will help the developer save time with formatting a read me while still being able to input vital information on their applications.
 
 ## License
 
@@ -52,3 +50,11 @@ _THEN I am taken to the corresponding section of the README_
 ## Screen Shots
 
 ![Example README]()
+
+
+
+
+
+
+
+[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
