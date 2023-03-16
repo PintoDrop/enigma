@@ -1,5 +1,15 @@
 # Read Me Generator
 
+## *Table Of Contents*
+1. [Description](#description)
+2. [Usage](#usage)
+3. [License](#license)
+4. [Criteria For Assignment](#criteria-for-assignment)
+5. [Repo Link](#repository-link)
+6. [Example of Read Me](#example)
+7. [Walkthrough Video](#walk-through-video)
+8. [Screen Shots](#screen-shots)
+
 ## Description
 
 For this assignment I was tasked with creating a README generator to make it faster for the developer to create a well thought out read me they can use on their applications. The user will be able to input unqie information for their project and have it generated into a read me document. The user will be asked a series of questions to input for the information needed in a read me document.
@@ -12,7 +22,7 @@ The user will be able to use this application to enter in some information about
 
 Please refer to the LICENSE in the repo.
 
-## Criteria for assignment
+## Criteria-for-assignment
 
 GIVEN a command-line application that accepts user input
 
@@ -37,18 +47,18 @@ _THEN this is added to the section of the README entitled Questions, with instru
 **WHEN I click on the links in the Table of Contents**
 _THEN I am taken to the corresponding section of the README_
 
-## Repository Link
+## Repository-Link
 
 [Github](https://github.com/PintoDrop/enigma)
 
-## Example Read Me
+## Example
 
 [Example READ ME](https://github.com/PintoDrop/enigma/blob/main/README-EX.md)
 
-## Link To Walk Through Video
+## Walk-Through-Video
 
 [Read Me Generator Walkthrough]()
 
-## Screen Shots
+## Screen-Shots
 
 ![Example Of Read Me Screenshot](./images/ExampleReadMe.JPG)
