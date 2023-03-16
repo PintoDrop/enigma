@@ -32,7 +32,7 @@ function generateMarkdown(data) {
 2. [Installation](#installation)
 3. [Usage](#usage)
 4. [contributors](#contributors)
-5. [Test](#test)
+5. [Tests](#test)
 6. [License](#license)
 7. [Questions](#questions)
 
@@ -52,7 +52,7 @@ ${data.usage}
 
 ${data.contributors}
 
-## Test
+## Tests
 
 ${data.test}
 

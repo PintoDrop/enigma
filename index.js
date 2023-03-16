@@ -52,13 +52,13 @@ let questions = [
     message: "What is the email used for this project?",
     type: "input",
     name: "email",
-  }
+  },
 ];
 
 // TODO: Create a function to write README file
 
 function writeToFile(fileName, data) {
-  return fs.writeFileSync(path.join(process.cwd(),fileName),data);
+  return fs.writeFileSync(path.join(process.cwd(), fileName), data);
 }
 
 // TODO: Create a function to initialize app
@@ -67,7 +67,7 @@ function init() {
   inquierer
     .prompt(questions)
     .then((response) => {
-      return writeToFile("README-EX.md",generateMarkdown({...response}));
+      return writeToFile("README-EX.md", generateMarkdown({ ...response }));
     })
     .catch((err) => console.log(err));
 }
