@@ -1,6 +1,6 @@
-# fdsa
+# Read ME (EXAMPLE)
   
-[![License BSD](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## *Table Of Contents*
 
@@ -14,40 +14,40 @@
 
 ## Description
 
-fdsa
+For this application I was tasked with creating a thorough readme generator. For this task I made sure all the information entered by the user was able to show up in a new md file. This will help a developer quickly and easily complete a thorough read me.
 
 ## Installation
 
-fdas
+n/a
 
 ## Usage
 
-fads
+For this application I was tasked with creating a thorough readme generator. For this task I made sure all the information entered by the user was able to show up in a new md file. This will help a developer quickly and easily complete a thorough read me. 
 
 ## Contributors
 
-fads
+n/a
 
 ## Tests
 
-fads
+n/a
 
 
 ## Questions
 
 *If there are any questions about the project or if you'd wish to request a clone of the repo, my github can be reached here:*
 
-[fads](https://github.com/fads)
+[PintDrop](https://github.com/PintoDrop)
 
 
 *You can also reach me via email here for any related questions to the application:*
 
-fads
+mikebender22@gmail.com
 
 ## License
 
-BSD-3
+MIT
 
 *Website for license* (Will be blank if there is no license or you need to refer to the repository)
 
-[BSD-3 License Website](https://opensource.org/licenses/BSD-3-Clause)
+[MIT License Website](https://mit-license.org/)
