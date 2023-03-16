@@ -7,12 +7,11 @@
 4. [contributors](#contributors)
 5. [Test](#test)
 6. [License](#license)
-7. [Git-Hub](#github)
-8. [Email](#email)
+7. [Questions](#questions)
 
 ## Description
 
-I created this project to better understand node and how it can be used to help create things that may make the developer have an easier time.
+This project is to help define and produce a thorough readme. This is to help save the developer time and comrpise their readme of all the needed information.
 
 ## Installation
 
@@ -20,7 +19,7 @@ n/a
 
 ## Usage
 
-This can be used to create a thorough readme that will save the developer time and be able to inform the user of their project.
+This will help the user easily create a readme for any application they are working on or need to make.
 
 ## Contributors
 
@@ -34,17 +33,15 @@ n/a
 
 MIT
 
-## Github
+## Questions
 
-*My GitHub user name is*
-PintoDrop
+*If there are any questions about the project or if you'd wish to request a clone of the repo, my github can be reached here:*
 
-## Email
-
-*Feel free to contact me via email at*
-dsadas@yahoo.com
+[PintoDrop](https://github.com/PintoDrop)
 
 
+*You can also reach me via email here for any related questions to the application:*
+fdsafds@gmail.com
 
 
 

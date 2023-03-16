@@ -34,8 +34,7 @@ function generateMarkdown(data) {
 4. [contributors](#contributors)
 5. [Test](#test)
 6. [License](#license)
-7. [Git-Hub](#github)
-8. [Email](#email)
+7. [Questions](#questions)
 
 ## Description
 
@@ -61,14 +60,15 @@ ${data.test}
 
 ${data.license}
 
-## Github
+## Questions
 
-*My GitHub user name is*
-${data.github}
+*If there are any questions about the project or if you'd wish to request a clone of the repo, my github can be reached here:*
 
-## Email
+[${data.github}](https://github.com/${data.github})
 
-*Feel free to contact me via email at*
+
+*You can also reach me via email here for any related questions to the application:*
+
 ${data.email}
 
 
