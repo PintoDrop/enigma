@@ -23,7 +23,11 @@ The user will be able to use this application to enter in some information about
 
 ## License
 
-Please refer to the LICENSE in the repo.
+MIT
+
+*Website for license*
+
+[License: MIT](https://mit-license.org/)
 
 ## Criteria-for-assignment
 
