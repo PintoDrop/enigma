@@ -41,7 +41,7 @@ ${renderLicenseBadge(data.license)}
 1. [Description](#description)  
 2. [Installation](#installation)
 3. [Usage](#usage)
-4. [contributors](#contributors)
+4. [Contributors](#contributors)
 5. [Tests](#tests)
 6. [Questions](#questions)
 7. [License](#license)
@@ -65,7 +65,6 @@ ${data.contributors}
 ## Tests
 
 ${data.test}
-
 
 ## Questions
 
