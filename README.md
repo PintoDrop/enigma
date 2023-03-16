@@ -1,5 +1,3 @@
-<!-- # Professional README Generator Starter Code -->
-
 # Read Me Generator
 
 ## Description
@@ -43,18 +41,14 @@ _THEN I am taken to the corresponding section of the README_
 
 [Github](https://github.com/PintoDrop/enigma)
 
+## Example Read Me
+
+[Example README](https://github.com/PintoDrop/enigma/blob/main/README-EX.md)
+
 ## Link To Walk Through Video
 
 [Read Me Generator Walkthrough]()
 
 ## Screen Shots
 
-![Example README]()
-
-
-
-
-
-
-
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+![Example Of Read Me Screenshot](./images/ExampleReadMe.JPG)

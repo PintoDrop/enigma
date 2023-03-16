@@ -11,7 +11,7 @@
 
 ## Description
 
-This project is to help define and produce a thorough readme. This is to help save the developer time and comrpise their readme of all the needed information.
+I would like to create a project that creates a fully rendered README for the developer to use.
 
 ## Installation
 
@@ -19,7 +19,7 @@ n/a
 
 ## Usage
 
-This will help the user easily create a readme for any application they are working on or need to make.
+This can be used so the developer can create a readme quickly and easily. It will also allow to input all needed information
 
 ## Contributors
 
@@ -41,7 +41,8 @@ MIT
 
 
 *You can also reach me via email here for any related questions to the application:*
-fdsafds@gmail.com
+
+fadsfdsa@gmail.com
 
 
 

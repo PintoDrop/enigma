@@ -28,7 +28,7 @@ let questions = [
     name: "usage",
   },
   {
-    message: "What are the contributors of this project?",
+    message: "Who are the contributors of this project?",
     type: "input",
     name: "contributors",
   },
@@ -58,7 +58,6 @@ let questions = [
 // TODO: Create a function to write README file
 
 function writeToFile(fileName, data) {
-  // fs.writeToFile
   return fs.writeFileSync(path.join(process.cwd(),fileName),data);
 }
 
