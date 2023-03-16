@@ -63,3 +63,7 @@ GIVEN a command-line application that accepts user input
 ## Screen-Shots
 
 ![Example Of Read Me Screenshot](./images/ExampleReadMe.JPG)
+
+![Example Of Read Me Screenshot](./images/ExampleReadMe2.JPG)
+
+![Code for generating license badge & URL](./images/BadgeNlink.JPG)
