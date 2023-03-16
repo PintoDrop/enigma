@@ -43,7 +43,7 @@ _THEN I am taken to the corresponding section of the README_
 
 ## Example Read Me
 
-[Example README](https://github.com/PintoDrop/enigma/blob/main/README-EX.md)
+[Example READ ME](https://github.com/PintoDrop/enigma/blob/main/README-EX.md)
 
 ## Link To Walk Through Video
 
