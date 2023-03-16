@@ -23,7 +23,7 @@ let questions = [
     name: "installation",
   },
   {
-    message: "What is the usage for this project?",
+    message: "What is the usage of this project?",
     type: "input",
     name: "usage",
   },
@@ -49,7 +49,7 @@ let questions = [
     name: "github",
   },
   {
-    message: "What is the email used for this project?",
+    message: "What is the email you wish to use to be contacted about this project?",
     type: "input",
     name: "email",
   },

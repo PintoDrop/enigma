@@ -1,40 +1,57 @@
-// TODO: Create a function that returns a license badge based on which license is passed in
-// If there is no license, return an empty string
+// let mit = `[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)`;
+
+// let apache = `[![License Apache](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)`;
+
+// let bsd = `[![License BSD](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)`;
 
 function renderLicenseBadge(license) {
-  // let baseBadge = "";
-  // if(license = "none") {
-  //   badge = "!"
-  // }
+  let badge = "";
 
-// var = 'badge' (not for code, just a note)
+  if (license === "MIT") {
+    badge = `[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)`;
+  } else if (license === "BSD") {
+    badge = `[![License BSD](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)`;
+  } else if (license === "Apache") {
+    badge = `[![License Apache](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)`;
+  } else {
+    license = "";
+  }
 
-  // return 'badge';
+  return badge;
 }
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
 
-function renderLicenseLink(license) {}
+function renderLicenseSection(license) {
+  let licenseUrl = "";
 
-// TODO: Create a function that returns the license section of README
-// If there is no license, return an empty string
+  if (license === "MIT") {
+    licenseUrl = `[[License: MIT](https://mit-license.org/)`;
+  } else if (license === "BSD") {
+    licenseUrl = `[[License BSD](https://opensource.org/licenses/BSD-3-Clause)`;
+  } else if (license === "Apache") {
+    licenseUrl = `[[License Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0.html)`;
+  } else {
+    licenseUrl = "";
+  }
 
-function renderLicenseSection(license) {}
-
-// TODO: Create a function to generate markdown for README
+  return licenseUrl;
+}
 
 function generateMarkdown(data) {
   return `# ${data.title}
+  
+${renderLicenseBadge(data.license)}
 
 ## *Table Of Contents*
-1. [Description](#description)
+1. [Description](#description)  
 2. [Installation](#installation)
 3. [Usage](#usage)
 4. [contributors](#contributors)
 5. [Tests](#test)
-6. [License](#license)
-7. [Questions](#questions)
+6. [Questions](#questions)
+7. [License](#license)
 
 ## Description
 
@@ -56,9 +73,6 @@ ${data.contributors}
 
 ${data.test}
 
-## License
-
-${data.license}
 
 ## Questions
 
@@ -71,9 +85,13 @@ ${data.license}
 
 ${data.email}
 
+## License
 
+${data.license}
 
-${renderLicenseBadge(data.license)}
+*Website for license*
+
+${renderLicenseSection(data.license)}
 `;
 }
 
