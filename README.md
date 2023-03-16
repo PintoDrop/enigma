@@ -6,12 +6,13 @@
 
 1. [Description](#description)
 2. [Usage](#usage)
-3. [License](#license)
-4. [Criteria For Assignment](#criteria-for-assignment)
-5. [Repo Link](#repository-link)
-6. [Example of Read Me](#example)
-7. [Walkthrough Video](#walk-through-video)
-8. [Screen Shots](#screen-shots)
+3. [Installation](#installation)
+4. [License](#license)
+5. [Criteria For Assignment](#criteria-for-assignment)
+6. [Repo Link](#repository-link)
+7. [Example of Read Me](#example)
+8. [Walkthrough Video](#walk-through-video)
+9. [Screen Shots](#screen-shots)
 
 ## Description
 
@@ -20,6 +21,10 @@ For this assignment I was tasked with creating a README generator to make it fas
 ## Usage
 
 The user will be able to use this application to enter in some information about their application. After they have entered this information they will be presented with a read me that they can use in their project. This will help both the developer and the user to better understand the application. This will help the developer save time with formatting a read me while still being able to input vital information on their applications.
+
+## Installation
+
+You will need to use npm install after cloning the repo to install this project.
 
 ## License
 
