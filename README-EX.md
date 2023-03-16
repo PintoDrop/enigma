@@ -1,6 +1,6 @@
-# Read ME (EXAMPLE)
+# fdsa
   
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License BSD](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
 ## *Table Of Contents*
 
@@ -14,40 +14,40 @@
 
 ## Description
 
-For this application I was tasked with creating a thorough readme generator. For this task I made sure all the information entered by the user was able to show up in a new md file. This will help a developer quickly and easily complete a thorough read me. 
+fdsa
 
 ## Installation
 
-n/a
+fdas
 
 ## Usage
 
-This application allows the user to create a fully developed readme quickly by going through a series of questions about the project. Once these questions are complete then all the entered information will be added to the readme. 
+fads
 
 ## Contributors
 
-n/a
+fads
 
 ## Tests
 
-n/a
+fads
 
 
 ## Questions
 
 *If there are any questions about the project or if you'd wish to request a clone of the repo, my github can be reached here:*
 
-[PintoDrop](https://github.com/PintoDrop)
+[fads](https://github.com/fads)
 
 
 *You can also reach me via email here for any related questions to the application:*
 
-mikebender22@gmail.com
+fads
 
 ## License
 
-MIT
+BSD-3
 
-*Website for license*
+*Website for license* (Will be blank if there is no license or you need to refer to the repository)
 
-[MIT License Website](https://mit-license.org/)
+[BSD-3 License Website](https://opensource.org/licenses/BSD-3-Clause)
