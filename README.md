@@ -27,7 +27,7 @@ MIT
 
 *Website for license*
 
-[License: MIT](https://mit-license.org/)
+[MIT License Website](https://mit-license.org/)
 
 ## Criteria-for-assignment
 

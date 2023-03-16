@@ -37,7 +37,7 @@ let questions = [
   {
     message: "What license are you using for this project?",
     type: "list",
-    choices: ["MIT", "BSD", "Apache", "Refer to the Repo License", "none"],
+    choices: ["MIT", "BSD-3", "Apache", "Refer to the Repo License", "none"],
     name: "license",
   },
   {

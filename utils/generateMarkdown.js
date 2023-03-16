@@ -19,11 +19,11 @@ function renderLicenseSection(license) {
   let licenseUrl = "";
 
   if (license === "MIT") {
-    licenseUrl = `[License: MIT](https://mit-license.org/)`;
+    licenseUrl = `[MIT License Website](https://mit-license.org/)`;
   } else if (license === "BSD") {
-    licenseUrl = `[License BSD](https://opensource.org/licenses/BSD-3-Clause)`;
+    licenseUrl = `[BSD-3 License Website](https://opensource.org/licenses/BSD-3-Clause)`;
   } else if (license === "Apache") {
-    licenseUrl = `[License Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0.html)`;
+    licenseUrl = `[Apache 2.0 License Website](https://www.apache.org/licenses/LICENSE-2.0.html)`;
   } else {
     licenseUrl = "";
   }
