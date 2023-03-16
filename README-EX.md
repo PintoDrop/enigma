@@ -22,7 +22,7 @@ n/a
 
 ## Usage
 
-For this application I was tasked with creating a thorough readme generator. For this task I made sure all the information entered by the user was able to show up in a new md file. This will help a developer quickly and easily complete a thorough read me. 
+For this application I was tasked with creating a thorough readme generator. For this task I made sure all the information entered by the user was able to show up in a new md file. This will help a developer quickly and easily complete a thorough read me.
 
 ## Contributors
 
@@ -32,13 +32,11 @@ n/a
 
 n/a
 
-
 ## Questions
 
 *If there are any questions about the project or if you'd wish to request a clone of the repo, my github can be reached here:*
 
 [PintDrop](https://github.com/PintoDrop)
-
 
 *You can also reach me via email here for any related questions to the application:*
 
