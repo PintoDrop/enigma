@@ -1,9 +1,3 @@
-// let mit = `[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)`;
-
-// let apache = `[![License Apache](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)`;
-
-// let bsd = `[![License BSD](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)`;
-
 function renderLicenseBadge(license) {
   let badge = "";
 
@@ -20,18 +14,16 @@ function renderLicenseBadge(license) {
   return badge;
 }
 
-// TODO: Create a function that returns the license link
-// If there is no license, return an empty string
 
 function renderLicenseSection(license) {
   let licenseUrl = "";
 
   if (license === "MIT") {
-    licenseUrl = `[[License: MIT](https://mit-license.org/)`;
+    licenseUrl = `[License: MIT](https://mit-license.org/)`;
   } else if (license === "BSD") {
-    licenseUrl = `[[License BSD](https://opensource.org/licenses/BSD-3-Clause)`;
+    licenseUrl = `[License BSD](https://opensource.org/licenses/BSD-3-Clause)`;
   } else if (license === "Apache") {
-    licenseUrl = `[[License Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0.html)`;
+    licenseUrl = `[License Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0.html)`;
   } else {
     licenseUrl = "";
   }
