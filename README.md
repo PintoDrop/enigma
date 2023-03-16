@@ -58,7 +58,7 @@ GIVEN a command-line application that accepts user input
 
 ## Walk-Through-Video
 
-[Read Me Generator Walkthrough]()
+[Read Me Generator Walkthrough](https://drive.google.com/file/d/1i_wA-M-NA0RXtGbiixLUx7LusbwYneZ3/view)
 
 ## Screen-Shots
 

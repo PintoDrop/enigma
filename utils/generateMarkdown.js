@@ -37,11 +37,12 @@ function generateMarkdown(data) {
 ${renderLicenseBadge(data.license)}
 
 ## *Table Of Contents*
+
 1. [Description](#description)  
 2. [Installation](#installation)
 3. [Usage](#usage)
 4. [contributors](#contributors)
-5. [Tests](#test)
+5. [Tests](#tests)
 6. [Questions](#questions)
 7. [License](#license)
 
@@ -81,7 +82,7 @@ ${data.email}
 
 ${data.license}
 
-*Website for license*
+*Website for license* (Will be blank if there is no license or you need to refer to the repository)
 
 ${renderLicenseSection(data.license)}
 `;
